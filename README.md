@@ -1,2 +1,5 @@
-# protein-databank-filtering
-My summer practice at the HSE university
+# Protein databank filtering
+
+Проект реализован в рамках производственной практики в университете НИУ ВШЭ. Целью работы является изучение базы белковых структур и анализ её отдельных компонентов. 
+
+**Ключевые слова:** Python, biopython, database, sqlalchemy, mysql. 
